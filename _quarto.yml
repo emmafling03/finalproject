@@ -9,11 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Coursework.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - Litera
       - brand
     css: styles.css
     toc: true

@@ -1,11 +1,17 @@
 ---
-title: "finalproject"
+title: "Emma Fling Practice Website"
+image: Headshot_Fling.jpeg
+about: 
+  template: jolla
+  image-shape: rounded
+  image-width: 15em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/emmafling/
+    - text: Email
+      href: mailto:emmafling@colostate.edu
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-
-```
+Hello! Welcome to my website. By clicking through the tabs, you can learn about my academic and professional journey! If you wish to reach out, the buttons below will lead you to my contact information.

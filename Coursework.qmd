@@ -1,4 +1,68 @@
 ---
 title: "Coursework"
-author: "Emma Fling"
+author: "  Emma Fling"
+image: emma_fieldwork.jpg
+
+about:
+  template: trestles
+  image: emma_fieldwork.jpg
+  image-width: 15em
 ---
+
+## Processes 
+
+-   Advanced Snow Hydrology
+
+-   Hydrogeology
+
+-   Land Use Hydrology
+
+-   Land Use and Water Quality
+
+## Analytic
+
+-   Quantitative Reasoning for Ecosystem Science and Sustainability
+
+-   Integrated Ecosystem Analysis
+
+-   Environmental Data Science Applications: Introductions
+
+-   GIS for Water Resources
+
+-   Intro to R-Programming
+
+-   Intro to Geographical Information Systems
+
+-   Statistics
+
+## Law
+
+-   Water Law for Non-Lawyers
+
+    -   Undergraduate Focused on Agricultural Law
+
+-   Water Law for Non-Lawyers
+
+    -   Graduate Focused on Worldwide Applications
+
+-   Global Perspectives on Sustainability
+
+    -   Focused on the United Nations Processes, including but not limited to COP30
+
+## Social
+
+-   Watershed Management
+
+-   Public Speaking for Natural Resources
+
+-   Scientific Writing
+
+-   Honors Seminars
+
+## Field Work
+
+-   Field Measurements for Natural Resources at CSU Mountain Campus
+
+-   Snow Hydrology Field Practicum
+
+-   Watershed Field Practicum

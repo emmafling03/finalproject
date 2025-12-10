@@ -2,8 +2,37 @@
 title: "About"
 ---
 
-About this site
+Hello! My name is Emma Fling, and I am a current Master's student focusing on Water Conservation! As you will find exploring this website, which goes deep into my academic career, I am a nerd when it comes to water and am thrilled to be transitioning into the professional world. Having completed my undergraduate studies at CSU and almost finished my Master's, I have a deep understanding of all things water, from law to hydrology to social uses! Feel free to reach out to me through the links at the bottom of the page, and let's talk water!
 
-```{r}
-1 + 1
-```
+## Education
+
+**Professional Master's at Colorado State University (Spring 2025 - Current)**
+
+Major: Ecosystem Science and Sustainability
+
+Focus: Water Resources
+
+Current GPA: 3.81
+
+**Undergraduate at Colorado State University (August 2022 - May 2025)**
+
+Major: Ecosystem Science and Sustainability
+
+Minor: Watershed Sciences
+
+Final GPA: 3.8 with Honors
+
+## Work History 
+
+**Student Researcher**
+
+CSU Methane Emissions Testing and Evaluation Center (August 2025 - Current)
+
+\
+**Host and Sales Associate**
+
+Ginger and Baker ( April 2023 - August 2025)
+
+**Environmental Educator**
+
+Rugged Research (April 2023 - April 2024)

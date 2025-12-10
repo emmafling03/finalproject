@@ -2,15 +2,78 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "finalproject",
+    "title": "Emma Fling Practice Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello! Welcome to my website. By clicking through the tabs, you can learn about my academic and professional journey! If you wish to reach out, the buttons below will lead you to my contact information."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Emma Fling Practice Website",
+    "section": "",
+    "text": "Hello! Welcome to my website. By clicking through the tabs, you can learn about my academic and professional journey! If you wish to reach out, the buttons below will lead you to my contact information."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! My name is Emma Fling, and I am a current Master’s student focusing on Water Conservation! As you will find exploring this website, which goes deep into my academic career, I am a nerd when it comes to water and am thrilled to be transitioning into the professional world. Having completed my undergraduate studies at CSU and almost finished my Master’s, I have a deep understanding of all things water, from law to hydrology to social uses! Feel free to reach out to me through the links at the bottom of the page, and let’s talk water!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nProfessional Master’s at Colorado State University (Spring 2025 - Current)\nMajor: Ecosystem Science and Sustainability\nFocus: Water Resources\nCurrent GPA: 3.81\nUndergraduate at Colorado State University (August 2022 - May 2025)\nMajor: Ecosystem Science and Sustainability\nMinor: Watershed Sciences\nFinal GPA: 3.8 with Honors"
+  },
+  {
+    "objectID": "about.html#work-history",
+    "href": "about.html#work-history",
+    "title": "About",
+    "section": "Work History",
+    "text": "Work History\nStudent Researcher\nCSU Methane Emissions Testing and Evaluation Center (August 2025 - Current)\n\nHost and Sales Associate\nGinger and Baker ( April 2023 - August 2025)\nEnvironmental Educator\nRugged Research (April 2023 - April 2024)"
+  },
+  {
+    "objectID": "Coursework.html",
+    "href": "Coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Advanced Snow Hydrology\nHydrogeology\nLand Use Hydrology\nLand Use and Water Quality"
+  },
+  {
+    "objectID": "Coursework.html#processes",
+    "href": "Coursework.html#processes",
+    "title": "Coursework",
+    "section": "",
+    "text": "Advanced Snow Hydrology\nHydrogeology\nLand Use Hydrology\nLand Use and Water Quality"
+  },
+  {
+    "objectID": "Coursework.html#analytic",
+    "href": "Coursework.html#analytic",
+    "title": "Coursework",
+    "section": "Analytic",
+    "text": "Analytic\n\nQuantitative Reasoning for Ecosystem Science and Sustainability\nIntegrated Ecosystem Analysis\nEnvironmental Data Science Applications: Introductions\nGIS for Water Resources\nIntro to R-Programming\nIntro to Geographical Information Systems\nStatistics"
+  },
+  {
+    "objectID": "Coursework.html#law",
+    "href": "Coursework.html#law",
+    "title": "Coursework",
+    "section": "Law",
+    "text": "Law\n\nWater Law for Non-Lawyers\n\nUndergraduate Focused on Agricultural Law\n\nWater Law for Non-Lawyers\n\nGraduate Focused on Worldwide Applications\n\nGlobal Perspectives on Sustainability\n\nFocused on the United Nations Processes, including but not limited to COP30"
+  },
+  {
+    "objectID": "Coursework.html#social",
+    "href": "Coursework.html#social",
+    "title": "Coursework",
+    "section": "Social",
+    "text": "Social\n\nWatershed Management\nPublic Speaking for Natural Resources\nScientific Writing\nHonors Seminars"
+  },
+  {
+    "objectID": "Coursework.html#field-work",
+    "href": "Coursework.html#field-work",
+    "title": "Coursework",
+    "section": "Field Work",
+    "text": "Field Work\n\nField Measurements for Natural Resources at CSU Mountain Campus\nSnow Hydrology Field Practicum\nWatershed Field Practicum"
   }
 ]
