@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   title: "finalproject"
   navbar:
@@ -13,11 +14,9 @@ website:
 
 format:
   html:
-    theme:
-      - Litera
-      - brand
+    theme: minty
     css: styles.css
     toc: true
+    page-layout: full
 
-editor: visual
 

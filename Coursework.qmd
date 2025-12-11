@@ -4,12 +4,13 @@ author: "  Emma Fling"
 image: emma_fieldwork.jpg
 
 about:
-  template: trestles
+  template: broadside
   image: emma_fieldwork.jpg
   image-width: 15em
+  image-shape: round
 ---
 
-## Processes 
+## Processes
 
 -   Advanced Snow Hydrology
 

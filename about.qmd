@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-Hello! My name is Emma Fling, and I am a current Master's student focusing on Water Conservation! As you will find exploring this website, which goes deep into my academic career, I am a nerd when it comes to water and am thrilled to be transitioning into the professional world. Having completed my undergraduate studies at CSU and almost finished my Master's, I have a deep understanding of all things water, from law to hydrology to social uses! Feel free to reach out to me through the links at the bottom of the page, and let's talk water!
-
 ## Education
 
 **Professional Master's at Colorado State University (Spring 2025 - Current)**
@@ -22,17 +20,51 @@ Minor: Watershed Sciences
 
 Final GPA: 3.8 with Honors
 
-## Work History 
+## Work History
 
 **Student Researcher**
 
 CSU Methane Emissions Testing and Evaluation Center (August 2025 - Current)
+
+-   Conduct field surveys to evaluate the effectiveness of detection methods and equipment for identifying methane leaks in natural gas infrastructure.
+
+-   Operate and troubleshoot advanced scientific instruments to ensure accurate data collection.
+
+-   Perform driving, walking, and ground-truth surveys across varied weather conditions to support research reliability.
+
+-   Collaborate with engineering professionals to analyze results and improve survey protocols for methane detection technologies.
+
+-   Learned and applied introductory Python to analyze and model field-collected data
 
 \
 **Host and Sales Associate**
 
 Ginger and Baker ( April 2023 - August 2025)
 
+-   Trained new employees and helped update training procedures
+
+-   Delivered exceptional customer service in a fast-paced environment.
+
+-   Strategically planned seating and assisted with restaurant operations.
+
+-   Developed strong communication and multitasking skills.
+
 **Environmental Educator**
 
 Rugged Research (April 2023 - April 2024)
+
+-   Led educational programs on local ecosystems and water resources for K-12 students and the public.
+
+-   Created and facilitated interactive lessons focused on sustainability, water conservation, and biodiversity.
+
+-   Gained experience communicating complex environmental topics to diverse audiences.
+
+**Lifeguard and Swim Instructor**
+
+Fort Lupton Recreation Center (April 2019 – August 2022)
+
+-   Ensured safety of patrons at public pools, enforcing policies and responding to emergencies.
+
+-   Instructed swim lessons for all ages, developing skills in teaching, leadership, creativity and responsibility.
+
+-   Designed and led group training for all staff.
