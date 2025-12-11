@@ -1,5 +1,11 @@
 ---
 title: "About"
+image: emma_fieldwork.jpg
+
+about: 
+  template: solana
+  image: emma_fieldwork.jpg
+  image-width: 20em
 ---
 
 ## Education

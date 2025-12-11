@@ -1,69 +1,65 @@
 ---
 title: "Coursework"
 author: "  Emma Fling"
-image: emma_fieldwork.jpg
 
 about:
-  template: broadside
-  image: emma_fieldwork.jpg
-  image-width: 15em
-  image-shape: round
+  template: jolla
 ---
 
 ## Processes
 
--   Advanced Snow Hydrology
+Advanced Snow Hydrology
 
--   Hydrogeology
+Hydrogeology
 
--   Land Use Hydrology
+Land Use Hydrology
 
--   Land Use and Water Quality
+Land Use and Water Quality
 
 ## Analytic
 
--   Quantitative Reasoning for Ecosystem Science and Sustainability
+Quantitative Reasoning for Ecosystem Science and Sustainability
 
--   Integrated Ecosystem Analysis
+Integrated Ecosystem Analysis
 
--   Environmental Data Science Applications: Introductions
+Environmental Data Science Applications: Introductions
 
--   GIS for Water Resources
+GIS for Water Resources
 
--   Intro to R-Programming
+Intro to R-Programming
 
--   Intro to Geographical Information Systems
+Intro to Geographical Information Systems
 
--   Statistics
+Statistics
 
 ## Law
 
--   Water Law for Non-Lawyers
+Water Law for Non-Lawyers
 
-    -   Undergraduate Focused on Agricultural Law
+-   Undergraduate Focused on Agricultural Law
 
--   Water Law for Non-Lawyers
+Water Law for Non-Lawyers
 
-    -   Graduate Focused on Worldwide Applications
+-   Graduate Focused on Worldwide Applications
 
--   Global Perspectives on Sustainability
+Global Perspectives on Sustainability
 
-    -   Focused on the United Nations Processes, including but not limited to COP30
+-   Focused on the United Nations Processes, including but not limited to COP30
 
 ## Social
 
--   Watershed Management
+Watershed Management
 
--   Public Speaking for Natural Resources
+Public Speaking for Natural Resources
 
--   Scientific Writing
+Scientific Writing
 
--   Honors Seminars
+Honors Seminars
 
 ## Field Work
 
--   Field Measurements for Natural Resources at CSU Mountain Campus
+Field Measurements for Natural Resources at CSU Mountain Campus
 
--   Snow Hydrology Field Practicum
+Snow Hydrology Field Practicum
 
--   Watershed Field Practicum
+Watershed Field Practicum
