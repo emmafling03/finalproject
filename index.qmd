@@ -4,13 +4,15 @@ image: Headshot_Fling.jpeg
 about: 
   template: jolla
   image-shape: round
-  image-width: 15em
+  image-width: 25em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/emmafling/
     - text: Email
       href: mailto:emmafling@colostate.edu
 ---
+
+Sustainability \| Watershed Sciences \| Data Analysis \| Water Resource Management \| Hydrology \| Hydrogeology
 
 ## Welcome
 

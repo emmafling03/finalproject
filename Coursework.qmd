@@ -1,10 +1,11 @@
 ---
 title: "Coursework"
-author: "  Emma Fling"
 
 about:
   template: jolla
 ---
+
+Hello all! This page showcases courses I have taken in my undergraduate and graduate studies. While I have taken many more classes than these, I feel that these courses best showcase my interests!
 
 ## Processes
 
@@ -34,17 +35,11 @@ Statistics
 
 ## Law
 
-Water Law for Non-Lawyers
+Water Law for Non-Lawyers- Focused on Agricultural Law
 
--   Undergraduate Focused on Agricultural Law
+Water Law for Non-Lawyers- Focused on Worldwide Applications
 
-Water Law for Non-Lawyers
-
--   Graduate Focused on Worldwide Applications
-
-Global Perspectives on Sustainability
-
--   Focused on the United Nations Processes, including but not limited to COP30
+Global Perspectives on Sustainability- Focused on the United Nations Processes
 
 ## Social
 

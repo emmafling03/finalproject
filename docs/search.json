@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Emma Fling",
     "section": "",
-    "text": "Hello! My name is Emma Fling, and I am a current Master’s student focusing on Water Conservation! As you will find exploring this website, which goes deep into my academic career, I am a nerd when it comes to water and am thrilled to be transitioning into the professional world. Having completed my undergraduate studies at CSU and almost finished my Master’s, I have a deep understanding of all things water, from law to hydrology to social uses! Feel free to reach out to me through the links below, and let’s talk water!"
+    "text": "Sustainability | Watershed Sciences | Data Analysis | Water Resource Management | Hydrology | Hydrogeology"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Emma Fling",
-    "section": "",
-    "text": "Hello! My name is Emma Fling, and I am a current Master’s student focusing on Water Conservation! As you will find exploring this website, which goes deep into my academic career, I am a nerd when it comes to water and am thrilled to be transitioning into the professional world. Having completed my undergraduate studies at CSU and almost finished my Master’s, I have a deep understanding of all things water, from law to hydrology to social uses! Feel free to reach out to me through the links below, and let’s talk water!"
+    "section": "Welcome",
+    "text": "Welcome\nHello! My name is Emma Fling, and I am a current Master’s student focusing on Water Conservation! As you will find exploring this website, which goes deep into my academic career, I am a nerd when it comes to water and am thrilled to be transitioning into the professional world. Having completed my undergraduate studies at CSU and almost finished my Master’s, I have a deep understanding of all things water, from law to hydrology to social uses! Feel free to reach out to me through the links below, and let’s talk water!"
   },
   {
     "objectID": "about.html",
@@ -39,14 +39,14 @@
     "href": "Coursework.html",
     "title": "Coursework",
     "section": "",
-    "text": "Advanced Snow Hydrology\nHydrogeology\nLand Use Hydrology\nLand Use and Water Quality"
+    "text": "Hello all! This page showcases courses I have taken in my undergraduate and graduate studies. While I have taken many more classes than these, I feel that these courses best showcase my interests!"
   },
   {
     "objectID": "Coursework.html#processes",
     "href": "Coursework.html#processes",
     "title": "Coursework",
-    "section": "",
-    "text": "Advanced Snow Hydrology\nHydrogeology\nLand Use Hydrology\nLand Use and Water Quality"
+    "section": "Processes",
+    "text": "Processes\nAdvanced Snow Hydrology\nHydrogeology\nLand Use Hydrology\nLand Use and Water Quality"
   },
   {
     "objectID": "Coursework.html#analytic",
@@ -60,7 +60,7 @@
     "href": "Coursework.html#law",
     "title": "Coursework",
     "section": "Law",
-    "text": "Law\nWater Law for Non-Lawyers\n\nUndergraduate Focused on Agricultural Law\n\nWater Law for Non-Lawyers\n\nGraduate Focused on Worldwide Applications\n\nGlobal Perspectives on Sustainability\n\nFocused on the United Nations Processes, including but not limited to COP30"
+    "text": "Law\nWater Law for Non-Lawyers- Focused on Agricultural Law\nWater Law for Non-Lawyers- Focused on Worldwide Applications\nGlobal Perspectives on Sustainability- Focused on the United Nations Processes"
   },
   {
     "objectID": "Coursework.html#social",

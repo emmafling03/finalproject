@@ -6,6 +6,7 @@ about:
   template: solana
   image: emma_fieldwork.jpg
   image-width: 20em
+  image-shape: rounded
 ---
 
 ## Education
